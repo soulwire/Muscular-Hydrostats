@@ -48,23 +48,23 @@ html.dark, body.dark {
 }
 
 @-moz-keyframes show-info {
-    0% { -webkit-transform: rotateY(120deg); }
-    100% { -webkit-transform: rotateY(0deg); }
+    0% { -moz-transform: rotateY(120deg); }
+    100% { -moz-transform: rotateY(0deg); }
 }
 
 @-ms-keyframes show-info {
-    0% { -webkit-transform: rotateY(120deg); }
-    100% { -webkit-transform: rotateY(0deg); }
+    0% { -ms-transform: rotateY(120deg); }
+    100% { -ms-transform: rotateY(0deg); }
 }
 
 @-o-keyframes show-info {
-    0% { -webkit-transform: rotateY(120deg); }
-    100% { -webkit-transform: rotateY(0deg); }
+    0% { -o-transform: rotateY(120deg); }
+    100% { -o-transform: rotateY(0deg); }
 }
 
 @keyframes show-info {
-    0% { -webkit-transform: rotateY(120deg); }
-    100% { -webkit-transform: rotateY(0deg); }
+    0% { transform: rotateY(120deg); }
+    100% { transform: rotateY(0deg); }
 }
 
 .info {
