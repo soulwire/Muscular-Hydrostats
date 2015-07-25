@@ -1,7 +1,7 @@
 ###Muscular Hydrostats
 
-An experiment with [inverse kinematics](http://en.wikipedia.org/wiki/Inverse_kinematics) to simulate tentacles.
+An experiment with [inverse kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) to simulate tentacles.
 
-[See it in action.](http://soulwire.github.com/Muscular-Hydrostats/)
+[See it in action.](https://soulwire.github.com/Muscular-Hydrostats/)
 
-Uses [sketch.js](https://github.com/soulwire/sketch.js) and [dat.GUI](http://code.google.com/p/dat-gui/)
+Uses [sketch.js](httpss://github.com/soulwire/sketch.js) and [dat.GUI](https://code.google.com/p/dat-gui/)
